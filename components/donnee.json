@@ -1,0 +1,159 @@
+
+{
+    "tweet":[
+        {
+            "profil":"./components/profil.jpg",
+            "nom":"Wendtoin Issaka",
+            "pseudo" :"@lacapacitee",
+            "citation":"Les informaticiens construisent des ponts entre les rêves et la réalité.",
+            "like" :"",
+            "partage" :""
+        },
+        {
+            "profil":"./components/profil2.jpg",
+            "nom":"Karim TDG",
+            "pseudo" :"@Tdg_Bxss",
+            "citation":"L'informatique n'est pas sur les ordinateurs mais sur les gens et améliorer leur vie, leurs entreprises et leur monde.' - Dan Reed",
+            "like" :"",
+            "partage" :""
+        },
+        {
+            "profil":"./components/profil3.jpg",
+            "nom":"Woubi Aziz",
+            "pseudo" :"@Zizou ",
+            "citation":"okki",
+            "like" :"",
+            "partage" :""
+        },
+        {
+            "profil":"",
+            "nom":"",
+            "pseudo" :"",
+            "citation":"Le pouvoir de l'informatique est son pouvoir de transformer. Cela peut améliorer et changer le monde. - Satya Nadella",
+            "like" :"",
+            "partage" :""
+        },
+        {
+            "profil":"",
+            "nom":"",
+            "pseudo" :"",
+            "citation":"Dans le monde numérique d'aujourd'hui, l'informatique est la compétence clé pour le futur. Vous pouvez créer votre propre avenir. - Ginni Rometty",
+            "like" :"",
+            "partage" :""
+        },
+        {
+            "profil":"",
+            "nom":"",
+            "pseudo" :"",
+            "citation":"L'informatique c'est l'art de résoudre des problèmes, de concevoir des systèmes et de comprendre le comportement humain en utilisant la puissance des machines. - Paul Graham",
+            "like" :"",
+            "partage" :""
+        },
+        {
+            "profil":"",
+            "nom":"",
+            "pseudo" :"",
+            "citation":"En tant qu'informaticiens, nous avons le pouvoir de transformer l'information en innovation. - Ray Kurzweil",
+            "like" :"",
+            "partage" :""
+        },
+        {
+            "profil":"",
+            "nom":"",
+            "pseudo" :"",
+            "citation":"",
+            "like" :"",
+            "partage" :""
+        },
+        {
+            "profil":"",
+            "nom":"",
+            "pseudo" :"",
+            "citation":"",
+            "like" :"",
+            "partage" :""
+        },
+        {
+            "profil":"",
+            "nom":"",
+            "pseudo" :"",
+            "citation":"",
+            "like" :"",
+            "partage" :""
+        },
+        {
+            "profil":"",
+            "nom":"",
+            "pseudo" :"",
+            "citation":"",
+            "like" :"",
+            "partage" :""
+        },
+        {
+            "profil":"",
+            "nom":"",
+            "pseudo" :"",
+            "citation":"",
+            "like" :"",
+            "partage" :""
+        },
+        {
+            "profil":"",
+            "nom":"",
+            "pseudo" :"",
+            "citation":"",
+            "like" :"",
+            "partage" :""
+        },
+        {
+            "profil":"",
+            "nom":"",
+            "pseudo" :"",
+            "citation":"",
+            "like" :"",
+            "partage" :""
+        },
+        {
+            "profil":"",
+            "nom":"",
+            "pseudo" :"",
+            "citation":"",
+            "like" :"",
+            "partage" :""
+        },
+        {
+            "profil":"",
+            "nom":"",
+            "pseudo" :"",
+            "citation":"",
+            "like" :"",
+            "partage" :""
+        },
+        {
+            "profil":"",
+            "nom":"",
+            "pseudo" :"",
+            "citation":"",
+            "like" :"",
+            "partage" :""
+        },
+        {
+            "profil":"",
+            "nom":"",
+            "pseudo" :"",
+            "citation":"",
+            "like" :"",
+            "partage" :""
+        },
+        {
+            "profil":"",
+            "nom":"",
+            "pseudo" :"",
+            "citation":"",
+            "like" :"",
+            "partage" :""
+        }
+        
+
+    ]
+}
